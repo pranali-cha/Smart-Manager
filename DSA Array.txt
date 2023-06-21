@@ -1,0 +1,5 @@
+1] maximun & minimum in array.
+Ans:-
+	
+2] Maximum in array list.
+3] 
